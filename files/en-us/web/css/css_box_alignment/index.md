@@ -44,10 +44,10 @@ The alignment of text and inline-level content is defined in [CSS text module](/
 
 - {{Glossary("Alignment container")}}
 - {{Glossary("Alignment subject")}}
-- [Baseline alignment](/en-US/docs/Web/CSS/CSS_box_alignment/box_alignment#baseline_alignment)
-- [Distributed alignment](/en-US/docs/Web/CSS/CSS_box_alignment/box_alignment#distributed_alignment)
+- [Baseline alignment](/en-US/docs/Web/CSS/CSS_box_alignment/Box_alignment#baseline_alignment)
+- [Distributed alignment](/en-US/docs/Web/CSS/CSS_box_alignment/Box_alignment#distributed_alignment)
 - {{Glossary("Fallback alignment")}}
-- [Positional alignment](/en-US/docs/Web/CSS/CSS_box_alignment/box_alignment#positional_alignment)
+- [Positional alignment](/en-US/docs/Web/CSS/CSS_box_alignment/Box_alignment#positional_alignment)
 
 ## Guides
 
@@ -75,9 +75,6 @@ The alignment of text and inline-level content is defined in [CSS text module](/
 
 - {{cssxref("alignment-baseline")}}
 - {{cssxref("dominant-baseline")}}
-- {{cssxref("grid-column-gap")}}
-- {{cssxref("grid-gap")}}
-- {{cssxref("grid-row-gap")}}
 - {{cssxref("scroll-snap-align")}}
 - SVG {{SVGAttr("dominant-baseline")}} attribute
 - {{Glossary("Cross axis")}}
@@ -91,7 +88,7 @@ The alignment of text and inline-level content is defined in [CSS text module](/
 
 - [Basic concepts of flexbox](/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 - [Aligning items in a flex container](/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container)
-- [Box alignment in CSS grid layouts](/en-US/docs/Web/CSS/CSS_grid_layout/Box_alignment_in_grid_layout)
+- [Box alignment in grid layout](/en-US/docs/Web/CSS/CSS_box_alignment/Box_alignment_in_grid_layout)
 - [CSS display](/en-US/docs/Web/CSS/CSS_display) module
 - [CSS flexible box layout](/en-US/docs/Web/CSS/CSS_flexible_box_layout) module
 - [CSS grid layout](/en-US/docs/Web/CSS/CSS_grid_layout) module
